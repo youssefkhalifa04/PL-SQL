@@ -1,8 +1,4 @@
-Parfait ! Voici un **README.md** en français pour un dépôt GitHub PL/SQL, qui explique clairement la différence entre les **fonctions stockées**, **fonctions non stockées**, **procédures**, et **triggers**. Ce README est pédagogique, donc idéal si tu veux montrer de la théorie avec des exemples :
 
----
-
-```markdown
 # 📘 Introduction à PL/SQL : Fonctions, Procédures et Triggers
 
 Ce dépôt contient des exemples et des explications autour des concepts fondamentaux de **PL/SQL** dans Oracle, notamment :
