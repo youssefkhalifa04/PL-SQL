@@ -101,14 +101,17 @@ Ce trigger met à jour automatiquement le champ `date_modification` dès qu’un
 
 ```
 .
+PL-SQL/
 ├── README.md
-├── procedures/
-│   └── ajouter_etudiant.sql
-├── functions/
-│   ├── calcul_age.sql
-│   └── dire_bonjour_temporaire.sql
-├── triggers/
-│   └── maj_date_modif.sql
+├── les fonction et les procedures/
+│   ├── fonction.sql
+│   └── procedure.sql
+├── revision sql et plSql/
+│   ├── revision plSql.sql
+│   └── revision sql.sql
+└── serie triggers/
+    └── trigger.sql
+
 ```
 
 ---
